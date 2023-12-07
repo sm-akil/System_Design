@@ -1,0 +1,14 @@
+{
+	"font_size": 12,
+	"font_face": "Jetbrain Mono",
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"line_padding_bottom": 10,
+	"line_padding_top":10,
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/User/aura-theme.tmTheme",
+	"translate_tabs_to_space" : true,
+	"trim_trailing_white_space_on_save": true,
+	"word_warp": false,
+}
